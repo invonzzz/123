@@ -6,7 +6,7 @@
 void sistema(double& x, double& y)
 {
 	int a1, b1, a2, b2, c1, c2;
-	printf("a1 = "); scanf("%d", &a1);
+	printf("a11 = "); scanf("%d", &a1);
 	printf("b1 = "); scanf("%d", &b1);
 	printf("c1 = "); scanf("%d", &c1);
 	printf("a2 = "); scanf("%d", &a2);
